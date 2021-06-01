@@ -1,3 +1,7 @@
+import random
+import time
+import sys
+
 class Eventos:
     def menu_bomdia_atrasado(self):
         print("Ações:")

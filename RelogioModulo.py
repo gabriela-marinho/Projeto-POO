@@ -1,3 +1,6 @@
+import random
+import time
+import sys
 class Relogio:
     def __init__(self):
         self.horas = 6
